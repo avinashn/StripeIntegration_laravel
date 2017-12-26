@@ -12,7 +12,7 @@
 </ul>
 
 ## Working Demo
-You can see the demo of the project <a href="http://justlaravel.com/demos/integrate-stripe-payment-gateway-laravel/">here</a>
+You can see the demo of the project <a href="http://demos.justlaravel.com/integrate-stripe-payment-gateway-laravel/">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/integrate-stripe-payment-gateway-laravel/">http://justlaravel.com/integrate-stripe-payment-gateway-laravel/
